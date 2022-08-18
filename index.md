@@ -10,6 +10,7 @@ layout: default
 | 3   | 11-08-2022   |Lecture 3- Virtual Memory Systems | [11.08.2022](https://drive.google.com/file/d/1a87yZSEF6tDTU7L8yKt3YCezKuYRO513/view?usp=sharing)|
 | 4   | 12-08-2022   |Lecture 4- Basics of Parallel Architecture | [12.08.2022](https://drive.google.com/file/d/1nKZ9RakTTKdIpuXsGqiQ8PLMj3dXcTih/view?usp=sharing)|
 | 5   | 16-08-2022   | Lecture-5 - Vector Processing       | [Youtube](https://www.youtube.com/watch?v=fP4kZ2Zx_84)|
+| 6   | 18-08-2022   | Lecture 6- ILP: Pipelining     |[18.08.2022](https://drive.google.com/file/d/1vmEN9E8S1nMbRFaPvBI03Z6vWj5nmXK6/view?usp=sharing)|
 
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you. 
