@@ -14,7 +14,7 @@ layout: default
 | 7   | 23-08-2022   | Lecture 7- ILP: Basics     |[23.08.2022](https://drive.google.com/file/d/1f1G3Nln02_O1eTD5PoWJLrUghwXZbhSP/view?usp=sharing)|
 | 8   | 25-08-2022   | Lecture 8- Loop Unrolling-Static     |[25.08.2022](https://drive.google.com/file/d/1cIapIFSwOVt37_fiYih8Y6IadONne_Dl/view?usp=sharing)|
 | 9   | 26-08-2022   | Lecture 9- Tomasulo Algorithm     |[26.08.2022](https://drive.google.com/file/d/1VftGodi13C0E1lRCxBN_IWkZL87Uohls/view?usp=sharing)|
-| 10   | 30-08-2022   | Lecture 10- Tomasulo Algorithm     |[30.08.2022](https://drive.google.com/file/d/1ZcLaDcqHFbLpJIfad6xWEJ2FNJZZxC4t/view?usp=sharing)|
+| 10   | 30-08-2022   | Lecture 10- Tomasulo Algorithm Example    |[30.08.2022](https://drive.google.com/file/d/1ZcLaDcqHFbLpJIfad6xWEJ2FNJZZxC4t/view?usp=sharing)|
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you. 
 
