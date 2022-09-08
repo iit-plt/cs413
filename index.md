@@ -3,6 +3,8 @@ title: "CS413: Parallel Computer Architecture, IIITG"
 permalink: /
 layout: default
 ---
+## Assignment Questions - [Assignment-1](https://drive.google.com/file/d/19kFOAy-pK3w13QgJ_VNrLzHV4FWHMXm6/view?usp=sharing)
+
 | Sl. No. | Date    | Topics  | Slides   |
 |:---:|:-----------------:|:--|:--------------------------:|
 | 1   | 02-08-2022   |Lecture 1- Introduction | [02.08.2022](https://drive.google.com/file/d/1Oi5m8VMmQGHYy3YsWFUoowDYNW6H_pk5/view?usp=sharing)|
