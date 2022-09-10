@@ -4,6 +4,7 @@ permalink: /
 layout: default
 ---
 ## Assignment Questions - [Assignment-1](https://drive.google.com/file/d/19kFOAy-pK3w13QgJ_VNrLzHV4FWHMXm6/view?usp=sharing)
+## Solution-Assignment-1 (For unsolved questions refer slides)- [Solution-to_Assignment-1](https://drive.google.com/file/d/1tI8Epj82mDWgHgmofGOGWZJIxKExNBtk/view?usp=sharing) 
 
 | Sl. No. | Date    | Topics  | Slides   |
 |:---:|:-----------------:|:--|:--------------------------:|
