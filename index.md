@@ -21,8 +21,8 @@ layout: default
 | 11.b | 1-09-2022   | Lecture 11.b- Dynamic Branch Prediction    |[1.09.2022](https://drive.google.com/file/d/1r7bAVVn1TohDBYFUYzlxp0FBcZXqVa-k/view?usp=sharing)|
 | 12   | 2-09-2022   | Lecture 12- Advance Branch Predition    |[2.09.2022](https://drive.google.com/file/d/1M8q3NnH-4M6RTNcAGt-q1O1MbC7hE8Gc/view?usp=sharing)|
 | 13   | 6-09-2022   | Lecture 13- H/W Based Speculation    |[6.09.2022](https://drive.google.com/file/d/1sfVMt6BaTRDBUGTLpVyEmLbiWZbnSIrX/view?usp=sharing)|
-| 14   | 9-09-2022   | Lecture 14- VLIW    |[9.09.2022](https://drive.google.com/file/d/1qyjgFGEvwXhnP7CwsoAx03r5vk908QT6/view?usp=sharing)|
-
+| 14   | 9-09-2022   | Lecture 14- Multiple Issue(Superscalar)    |[9.09.2022](https://drive.google.com/file/d/1qyjgFGEvwXhnP7CwsoAx03r5vk908QT6/view?usp=sharing)|
+| 15   | 10-09-2022   | Lecture 15- VLIW    |[10.09.2022](https://drive.google.com/file/d/1SU1sDreVpuqQzXCLCeUc2xUANStULXba/view?usp=sharing)|
 
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you. 
