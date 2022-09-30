@@ -29,6 +29,7 @@ layout: default
 | 16   | 13-09-2022   | Lecture 16- Basics of Multiprocessors    |[13.09.2022](https://drive.google.com/file/d/1olqLjbCMTpyN3H45O3jYdXmdkz_8MgHk/view?usp=sharing)|
 | 17   | 15-09-2022   | Lecture 17- MultiStage Crossbar & Cache coherence|[15.09.2022](https://drive.google.com/file/d/1e-OTQIS9cCCeMlOS0_Y2kdzJnPv04WO7/view?usp=sharing)|
 | 18   | 27-09-2022   | Lecture 18- MSI and MESI Protocols    |[27.09.2022](https://drive.google.com/file/d/1zp0liWP89UGpPetChb8YO54JNCD3kuv0/view?usp=sharing)|
-
+| 19   | 29-09-2022   | Lecture 19- Cont. Cache Coherence    |[29.09.2022](https://drive.google.com/file/d/1qQWnF7my2kw1Zrdb8_E3-jklkMG_YnlX/view?usp=sharing)|
+| 20   | 30-09-2022   | Lecture 18-  Scalable cache Coherence   |[30.09.2022](https://drive.google.com/file/d/1FAH1eGryiEMOdm3aYNkYKU3GcEwzmexz/view?usp=sharing)|
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you. 
 
