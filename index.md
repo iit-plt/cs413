@@ -32,6 +32,8 @@ layout: default
 | 19   | 29-09-2022   | Lecture 19- Cont. Cache Coherence    |[29.09.2022](https://drive.google.com/file/d/1qQWnF7my2kw1Zrdb8_E3-jklkMG_YnlX/view?usp=sharing)|
 | 20   | 30-09-2022   | Lecture 20-  Scalable cache Coherence   |[30.09.2022](https://drive.google.com/file/d/1FAH1eGryiEMOdm3aYNkYKU3GcEwzmexz/view?usp=sharing)|
 | 21   | 06-10-2022   | Lecture 21-  Full Directory Protocol   |[06.10.2022](https://drive.google.com/file/d/17RyIEr8-uaTRP72JFvcjPha_jBGok7NT/view?usp=sharing)|
+| 22   | 07-10-2022   | Lecture 22-  Directory Protocol Cont. & Synchronization   |[07.10.2022](https://drive.google.com/file/d/1v6c7C8xyAtb9pLyfPOULnt9J9C7qC9dq/view?usp=sharing)|
+| 23   | 11-10-2022   | Lecture 23-  Synchronization   |[11.10.2022](https://drive.google.com/file/d/12jZhqF71DDOuJvqxOTQS7viqUm5LJeOB/view?usp=sharing)|
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you. 
 
