@@ -44,7 +44,7 @@ layout: default
 | 31   | 1-11-2022    | Lecture 31 - Revision Memory Model   |  [Written Notes](https://drive.google.com/file/d/1uIy4RPC2ST9sT_ttyJgbOxmZDnaXIUaI/view?usp=share_link)|
 | 32   | 3-11-2022    | Lecture 32 - Thread Level Parallelism-1 | [3-11-2022](https://drive.google.com/file/d/1iBcbQiOuSwdu3KSCeGpeEySVqZtoXsab/view?usp=share_link)|
 | 33   | 4-11-2022    | Lecture 33 - Thread Level Parallelism-2 | [4-11-2022](https://drive.google.com/file/d/1fft_3ccJEegP6YPdmSzf6Olm-kcIGZPt/view?usp=share_link)|
-| 34   | 10-11-2022   | Lecture 34 - Thread level Parallelism-3 | [10-11-2022]()|
+| 34   | 10-11-2022   | Lecture 34 - Thread level Parallelism-3 | [10-11-2022](https://drive.google.com/file/d/1WS0J3UVQWassarJX5CnWJgBln5kiQ1nu/view?usp=share_link)|
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you. 
 
