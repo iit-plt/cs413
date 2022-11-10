@@ -34,6 +34,14 @@ layout: default
 | 21   | 06-10-2022   | Lecture 21-  Full Directory Protocol   |[06.10.2022](https://drive.google.com/file/d/17RyIEr8-uaTRP72JFvcjPha_jBGok7NT/view?usp=sharing)|
 | 22   | 07-10-2022   | Lecture 22-  Directory Protocol Cont. & Synchronization   |[07.10.2022](https://drive.google.com/file/d/1v6c7C8xyAtb9pLyfPOULnt9J9C7qC9dq/view?usp=sharing)|
 | 23   | 11-10-2022   | Lecture 23-  Synchronization   |[11.10.2022](https://drive.google.com/file/d/12jZhqF71DDOuJvqxOTQS7viqUm5LJeOB/view?usp=sharing)|
+| 24   | 18-10-2022   | Lecture 24- Cont               | -do-  |
+| 25   | 20-10-2022   | Lecture 25- Revision               | -do-  |
+| 26   | 21-10-2022   | Lecture 26- Revision               | -do-  |
+| 27   | 25-10-2022   | Lecture 27- Revision               | -do-  |
+| 28   | 27-10-2022   | Lecture 28- Sequential Consitency              | [Slide 45-56](https://www.cse.iitd.ac.in/~srsarangi/files/advbook/Chapter_9-multicore-systems.pptx) |
+| 29   | 28-10-2022   | Lecture 27- SC Using Synchronixation Instruction   | [Slide 57- 60](https://www.cse.iitd.ac.in/~srsarangi/files/advbook/Chapter_9-multicore-systems.pptx) |
+| 30   | 29-10-2022   | Lecture 28 - Theory of Memory Models   | [Slide 61-74](https://www.cse.iitd.ac.in/~srsarangi/files/advbook/Chapter_9-multicore-systems.pptx) |
+| 31   | 1-11-2022
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you. 
 
