@@ -8,7 +8,7 @@ layout: default
 ## Assignment Questions - [Assignment-1](https://drive.google.com/file/d/19kFOAy-pK3w13QgJ_VNrLzHV4FWHMXm6/view?usp=sharing)
 ## Solution-Assignment-1 (For unsolved questions refer slides)- [Solution-to_Assignment-1](https://drive.google.com/file/d/1tI8Epj82mDWgHgmofGOGWZJIxKExNBtk/view?usp=sharing) 
 
-| Sl. No. | Date    | Topics  | Slides   |
+| Sl. No. | Date        | Topics  | Slides   |
 |:---:|:--:|:--|:--------------------------:|
 | 1   | 02-08-2022   |Lecture 1- Introduction | [02.08.2022](https://drive.google.com/file/d/1Oi5m8VMmQGHYy3YsWFUoowDYNW6H_pk5/view?usp=sharing)|
 | 2   | 04-08-2022   |Lecture 2- Revisiting Cache Memories | [04.08.2022](https://drive.google.com/file/d/1vnPqJOD8YDxfriP0XetSaRN4xE3H22c3/view?usp=sharing)|
