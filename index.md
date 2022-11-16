@@ -40,7 +40,7 @@ layout: default
 | 27   | 25-10-2022   | Lecture 27- Revision               | -do-  |
 | 28   | 27-10-2022   | Lecture 28- Sequential Consitency              | [Slide 45-56](https://www.cse.iitd.ac.in/~srsarangi/files/advbook/Chapter_9-multicore-systems.pptx) |
 | 29   | 28-10-2022   | Lecture 29- SC Using Synchronixation Instruction   | [Slide 57- 60](https://www.cse.iitd.ac.in/~srsarangi/files/advbook/Chapter_9-multicore-systems.pptx) |
-| 30   | 29-10-2022   | Lecture 30 - Theory of Memory Models   | [Slide 61-74](https://www.cse.iitd.ac.in/~srsarangi/files/advbook/Chapter_9-multicore-systems.pptx) |
+| 30   | 29-10-2022   | Lecture 30 - Theory of Memory Models   | [Slide 61-81](https://www.cse.iitd.ac.in/~srsarangi/files/advbook/Chapter_9-multicore-systems.pptx) |
 | 31   | 1-11-2022    | Lecture 31 - Revision Memory Model   |  [Written Notes](https://drive.google.com/file/d/1uIy4RPC2ST9sT_ttyJgbOxmZDnaXIUaI/view?usp=share_link)|
 | 32   | 3-11-2022    | Lecture 32 - Thread Level Parallelism-1 | [3-11-2022](https://drive.google.com/file/d/1iBcbQiOuSwdu3KSCeGpeEySVqZtoXsab/view?usp=share_link)|
 | 33   | 4-11-2022    | Lecture 33 - Thread Level Parallelism-2 | [4-11-2022](https://drive.google.com/file/d/1fft_3ccJEegP6YPdmSzf6Olm-kcIGZPt/view?usp=share_link)|
