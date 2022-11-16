@@ -20,8 +20,8 @@ layout: default
 | 8   | 25-08-2022   | Lecture 8- Loop Unrolling-Static     |[25.08.2022](https://drive.google.com/file/d/1cIapIFSwOVt37_fiYih8Y6IadONne_Dl/view?usp=sharing)|
 | 9   | 26-08-2022   | Lecture 9- Tomasulo Algorithm     |[26.08.2022](https://drive.google.com/file/d/1VftGodi13C0E1lRCxBN_IWkZL87Uohls/view?usp=sharing)|
 | 10   | 30-08-2022   | Lecture 10- Tomasulo Algorithm Example    |[30.08.2022](https://drive.google.com/file/d/1ZcLaDcqHFbLpJIfad6xWEJ2FNJZZxC4t/view?usp=sharing)|
-| 11.a  | 1-09-2022   | Lecture 11.a- Dynamic Loop Scheduling    |[1.09.2022](https://drive.google.com/file/d/1qdgp0tQ56mac8WyfNXfytFLc0xX3Us0a/view?usp=sharing)|
-| 11.b | 1-09-2022   | Lecture 11.b- Dynamic Branch Prediction    |[1.09.2022](https://drive.google.com/file/d/1r7bAVVn1TohDBYFUYzlxp0FBcZXqVa-k/view?usp=sharing)|
+| 11  | 1-09-2022   | Lecture 11.a- Dynamic Loop Scheduling    |[1.09.2022](https://drive.google.com/file/d/1qdgp0tQ56mac8WyfNXfytFLc0xX3Us0a/view?usp=sharing)|
+| 11 | 1-09-2022   | Lecture 11.b- Dynamic Branch Prediction    |[1.09.2022](https://drive.google.com/file/d/1r7bAVVn1TohDBYFUYzlxp0FBcZXqVa-k/view?usp=sharing)|
 | 12   | 2-09-2022   | Lecture 12- Advance Branch Predition    |[2.09.2022](https://drive.google.com/file/d/1M8q3NnH-4M6RTNcAGt-q1O1MbC7hE8Gc/view?usp=sharing)|
 | 13   | 6-09-2022   | Lecture 13- H/W Based Speculation    |[6.09.2022](https://drive.google.com/file/d/1sfVMt6BaTRDBUGTLpVyEmLbiWZbnSIrX/view?usp=sharing)|
 | 14   | 9-09-2022   | Lecture 14- Multiple Issue(Superscalar)    |[9.09.2022](https://drive.google.com/file/d/1qyjgFGEvwXhnP7CwsoAx03r5vk908QT6/view?usp=sharing)|
