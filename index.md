@@ -3,7 +3,7 @@ title: "CS413: Parallel Computer Architecture, IIITG"
 permalink: /
 layout: default
 ---
-
+## Syllabus End Sem - Sl. No 9-11, 12-14, 15-43
 ## Assigment 2 - [Assignment-2](https://drive.google.com/file/d/1ftqRpcH9qzzLpVaBYzQJdMOqYLZOKLuA/view?usp=share_link)
 ## Assignment Questions - [Assignment-1](https://drive.google.com/file/d/19kFOAy-pK3w13QgJ_VNrLzHV4FWHMXm6/view?usp=sharing)
 ## Solution-Assignment-1 (For unsolved questions refer slides)- [Solution-to_Assignment-1](https://drive.google.com/file/d/1tI8Epj82mDWgHgmofGOGWZJIxKExNBtk/view?usp=sharing) 
