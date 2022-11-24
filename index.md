@@ -1,12 +1,9 @@
-title: "CS413: Parallel Computer Architecture, IIITG"
-permalink: /
-layout: default
----
 
 ## Syllabus End Sem - Sl. No 5, 9-11, 12-14, 15-34
 ## Assigment 2 - [Assignment-2](https://drive.google.com/file/d/1ftqRpcH9qzzLpVaBYzQJdMOqYLZOKLuA/view?usp=share_link)
 ## Assignment Questions - [Assignment-1](https://drive.google.com/file/d/19kFOAy-pK3w13QgJ_VNrLzHV4FWHMXm6/view?usp=sharing)
 ## Solution-Assignment-1 (For unsolved questions refer slides)- [Solution-to_Assignment-1](https://drive.google.com/file/d/1tI8Epj82mDWgHgmofGOGWZJIxKExNBtk/view?usp=sharing) 
+
 | Sl. No. | Date of Lecture        | Topics  | Slides   |
 |:---:|:--:|:--|:--------------------------:|
 | 1   | 02-08-2022   |Lecture 1- Introduction | [02.08.2022](https://drive.google.com/file/d/1Oi5m8VMmQGHYy3YsWFUoowDYNW6H_pk5/view?usp=sharing)|
@@ -44,4 +41,6 @@ layout: default
 | 32   | 3-11-2022    | Lecture 32 - Thread Level Parallelism-1 | [3-11-2022](https://drive.google.com/file/d/1iBcbQiOuSwdu3KSCeGpeEySVqZtoXsab/view?usp=share_link)|
 | 33   | 4-11-2022    | Lecture 33 - Thread Level Parallelism-2 | [4-11-2022](https://drive.google.com/file/d/1fft_3ccJEegP6YPdmSzf6Olm-kcIGZPt/view?usp=share_link)|
 | 34   | 10-11-2022   | Lecture 34 - Thread level Parallelism-3 | [10-11-2022](https://drive.google.com/file/d/1WS0J3UVQWassarJX5CnWJgBln5kiQ1nu/view?usp=share_link)|
+
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you. 
+
