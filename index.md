@@ -1,4 +1,4 @@
-@@ -3,6 +3,7 @@ title: "CS413: Parallel Computer Architecture, IIITG"
+title: "CS413: Parallel Computer Architecture, IIITG"
 permalink: /
 layout: default
 ---
