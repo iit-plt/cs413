@@ -1,5 +1,7 @@
-Check your attendance here: [Link](https://docs.google.com/spreadsheets/d/15uA9LeIXxnPE4ydki7zfR0EAugeWi1QlrM6wXJ0b5Pc/edit?usp=drive_link)
+### The best preparation for tomorrow is doing your best today- H. Jackson Brown, Jr.
 
+
+Check your attendance here: [Link](https://docs.google.com/spreadsheets/d/15uA9LeIXxnPE4ydki7zfR0EAugeWi1QlrM6wXJ0b5Pc/edit?usp=drive_link)
 
 | Sl. No. | Date of Lecture        | Topics  | Slides   |
 |:---:|:--:|:--|:--------------------------:|
