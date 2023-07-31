@@ -1,5 +1,3 @@
-### CS413: Parallel Computer Architecture
-
 
 | Sl. No. | Date of Lecture        | Topics  | Slides   |
 |:---:|:--:|:--|:--------------------------:|
