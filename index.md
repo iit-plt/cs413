@@ -6,3 +6,4 @@ Check your attendance here: [Link](https://docs.google.com/spreadsheets/d/15uA9L
 | Sl. No. | Date of Lecture        | Topics  | Slides   |
 |:---:|:--:|:--|:--------------------------:|
 | 1   | 1-08-2023   |Lecture 1- Introduction                | [01.08.2023](https://drive.google.com/file/d/1CkjhWynMhxinu206Q7nVYhfUrHP0-Slt/view?usp=sharing)|
+| 2   | 2-08-2023   |Lecture 2- Cache Mapping Review        | [02.08.2023]()|
