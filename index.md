@@ -12,4 +12,4 @@ Assignment 1: [Familiarizing with Gem5](https://www.gem5.org/getting_started/) -
 | 3   | 7-08-2023   |Lecture 3- Parallel Architecture Basics        | [07.08.2023](https://drive.google.com/file/d/1m0myXHyzLHabbajf2A1ptclzDWho41QS/view?usp=drive_link)|
 | 4   | 8-08-2023   |Lecture 4- Review MIPS Datapath-1        | [08.08.2023](https://drive.google.com/file/d/128DBeEFQDfTGMlNcbYvUWHHbjPD1lP8m/view?usp=drive_link)|
 | 5   | 9-08-2023   |Lecture 5- Review MIPS Datapath-2 & Pipelining        | [09.08.2023](https://drive.google.com/file/d/1nfLU0VJCI-uIMpGT8Iq_oibcI1qbfVKY/view?usp=drive_link)|
-| 6   | 14-08-2023   |Lecture 6- Hazards in Pipelining        | [14.08.2023]()|
+| 6   | 14-08-2023   |Lecture 6- Hazards in Pipelining        | [14.08.2023](https://drive.google.com/file/d/1T671Ux_u_DDA4bcOCXnfzov_hcdZSO-j/view?usp=drive_link)|
