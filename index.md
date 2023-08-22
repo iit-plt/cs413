@@ -15,5 +15,6 @@ Assignment 1: [Familiarizing with Gem5](https://www.gem5.org/getting_started/) -
 | 6   | 14-08-2023   |Lecture 6- Hazards in Pipelining        | [14.08.2023](https://drive.google.com/file/d/1T671Ux_u_DDA4bcOCXnfzov_hcdZSO-j/view?usp=drive_link)|
 | 7   | 16-08-2023   |Lecture 7- Control Hazards and Simple Branch Predicting Techniques        | [16.08.2023](https://drive.google.com/file/d/1qIA4zEVvweCSdi8c2BnjqloOLbRfEYgL/view?usp=drive_link)|
 | 8   | 21-08-2023   |Lecture 8- Data Hazards Numericals        | [21.08.2023](https://drive.google.com/file/d/1zWwY0DQ5UjY8_ru3aydaPG-Tt4PC2qLJ/view?usp=drive_link)|
+| 9   | 22-08-2023   |Lecture 9- Instruction Level Parallelism -Part-1        | [22.08.2023](https://drive.google.com/file/d/1bJvjhnjCJea_3dzxu-OJqohgCuiZUzpi/view?usp=drive_link)|
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you.
