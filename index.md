@@ -17,5 +17,7 @@ Assignment 1: [Familiarizing with Gem5](https://www.gem5.org/getting_started/) -
 | 8   | 21-08-2023   |Lecture 8- Data Hazards Numericals        | [21.08.2023](https://drive.google.com/file/d/1zWwY0DQ5UjY8_ru3aydaPG-Tt4PC2qLJ/view?usp=drive_link)|
 | 9   | 22-08-2023   |Lecture 9- Instruction Level Parallelism -Basics        | [22.08.2023](https://drive.google.com/file/d/1bJvjhnjCJea_3dzxu-OJqohgCuiZUzpi/view?usp=drive_link)|
 | 10  | 23-08-2023   |Lecture 10- Dynamic Scheduling using Tomasulo's Algorithm        | [23.08.2023](https://drive.google.com/file/d/1HyHzic_n9PZBge0f2ga40xT2cSQlxMUm/view?usp=drive_link)|
+| 11  | 28-08-2023   |Lecture 11- Dynamic Scheduling using Tomasulo's Algorithm-Example        | [28.08.2023](https://drive.google.com/file/d/1xJJSMfvNW7S3G1Lw16R26E8282GSxTxT/view?usp=drive_link)|
+
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you.
