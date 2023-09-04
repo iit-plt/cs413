@@ -21,7 +21,7 @@ Assignment 1: [Familiarizing with Gem5](https://www.gem5.org/getting_started/) -
 | 12  | 29-08-2023   |Lecture 12- Dynamic Loop Scheduling        | [29.08.2023](https://drive.google.com/file/d/1obQJz7W7-D_QdftCipqCzPahsSkXHstA/view?usp=drive_link)|
 | 13  | 30-08-2023   |Lecture 13- 1-Bit and 2-Bit Branch Predictor        | [30.08.2023](https://drive.google.com/file/d/1U_kd6LS_Tnl_G_a-8IkcORvL3hu2qkbz/view?usp=drive_link)|
 | 14  | 2-09-2023   | Revision Mid-Sem        | |
-| 15  | 4-09-2023   | Revision Mid-Sem        | |
+| 15  | 4-09-2023   |         | |
 
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you.
