@@ -18,6 +18,9 @@ Assignment 1: [Familiarizing with Gem5](https://www.gem5.org/getting_started/) -
 | 9   | 22-08-2023   |Lecture 9- Instruction Level Parallelism -Basics        | [22.08.2023](https://drive.google.com/file/d/1bJvjhnjCJea_3dzxu-OJqohgCuiZUzpi/view?usp=drive_link)|
 | 10  | 23-08-2023   |Lecture 10- Dynamic Scheduling using Tomasulo's Algorithm        | [23.08.2023](https://drive.google.com/file/d/1HyHzic_n9PZBge0f2ga40xT2cSQlxMUm/view?usp=drive_link)|
 | 11  | 28-08-2023   |Lecture 11- Dynamic Scheduling using Tomasulo's Algorithm-Example        | [28.08.2023](https://drive.google.com/file/d/1xJJSMfvNW7S3G1Lw16R26E8282GSxTxT/view?usp=drive_link)|
+| 12  | 29-08-2023   |Lecture 12- Dynamic Loop Scheduling        | [29.08.2023](https://drive.google.com/file/d/1obQJz7W7-D_QdftCipqCzPahsSkXHstA/view?usp=drive_link)|
+| 13  | 30-08-2023   |Lecture 13- 1-Bit and 2-Bit Branch Predictor        | [30.08.2023](https://drive.google.com/file/d/1U_kd6LS_Tnl_G_a-8IkcORvL3hu2qkbz/view?usp=drive_link)|
+| 14  | 2-09-2023   | Revision Mid-Sem        | |
 
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you.
