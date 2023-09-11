@@ -20,8 +20,9 @@ Assignment 1: [Familiarizing with Gem5](https://www.gem5.org/getting_started/) -
 | 11  | 28-08-2023   |Lecture 11- Dynamic Scheduling using Tomasulo's Algorithm-Example        | [28.08.2023](https://drive.google.com/file/d/1xJJSMfvNW7S3G1Lw16R26E8282GSxTxT/view?usp=drive_link)|
 | 12  | 29-08-2023   |Lecture 12- Dynamic Loop Scheduling        | [29.08.2023](https://drive.google.com/file/d/1obQJz7W7-D_QdftCipqCzPahsSkXHstA/view?usp=drive_link)|
 | 13  | 30-08-2023   |Lecture 13- 1-Bit and 2-Bit Branch Predictor        | [30.08.2023](https://drive.google.com/file/d/1U_kd6LS_Tnl_G_a-8IkcORvL3hu2qkbz/view?usp=drive_link)|
-| 14  | 2-09-2023   | Revision Mid-Sem        | |
-| 15  | 4-09-2023   |         | |
-
+| 14  | 2-09-2023   | Lecture 14-Revision Mid-Sem        | |
+| 15  | 4-09-2023   | Lecture 15- Hardware basedSpeculation    | [04.09.2023](https://drive.google.com/file/d/1jEJdAXy6OcdD-wMb9kwqyVIN9Ai7IJSM/view?usp=drive_link) |
+| 16  | 5-09-2023   | Lecture 16- Hardware based Speculation Continue    | --Cont of Lec 15 ---- |
+| 17  | 11-09-2023  | Lecture 17 - Basic of VLIW                         | [11.09.2023](https://drive.google.com/file/d/1tRmwzNmqMajtyYZM74rE3NvlM9bAyOf6/view?usp=drive_link) |
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you.
