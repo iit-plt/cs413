@@ -24,5 +24,5 @@ Assignment 1: [Familiarizing with Gem5](https://www.gem5.org/getting_started/) -
 | 15  | 4-09-2023   | Lecture 15- Hardware basedSpeculation    | [04.09.2023](https://drive.google.com/file/d/1jEJdAXy6OcdD-wMb9kwqyVIN9Ai7IJSM/view?usp=drive_link) |
 | 16  | 5-09-2023   | Lecture 16- Hardware based Speculation Continue    | --Cont of Lec 15 ---- |
 | 17  | 11-09-2023  | Lecture 17 - Basic of VLIW                         | [11.09.2023](https://drive.google.com/file/d/1tRmwzNmqMajtyYZM74rE3NvlM9bAyOf6/view?usp=drive_link) |
-
+| 18  | 12-09-2023  | Lecture 18 - Cont VLIW and SIMD                         | [12.09.2023](https://drive.google.com/file/d/1An93XezjRismZh5K1JeFvcFG5tJBFoWu/view?usp=drive_link) |
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you.
