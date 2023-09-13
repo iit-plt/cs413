@@ -27,4 +27,5 @@ Assignment 1: [Familiarizing with Gem5](https://www.gem5.org/getting_started/) -
 | 18  | 12-09-2023  | Lecture 18 - Cont VLIW and SIMD                         | [12.09.2023](https://drive.google.com/file/d/1An93XezjRismZh5K1JeFvcFG5tJBFoWu/view?usp=drive_link) |
 | 19  | 13-09-2023  | Lecture 19 - Revision-2 Mid-Sem                        |  |
 
+
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you.
