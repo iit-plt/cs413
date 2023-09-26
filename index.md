@@ -26,6 +26,10 @@ Assignment 1: [Familiarizing with Gem5](https://www.gem5.org/getting_started/) -
 | 17  | 11-09-2023  | Lecture 17 - Basic of VLIW                         | [11.09.2023](https://drive.google.com/file/d/1tRmwzNmqMajtyYZM74rE3NvlM9bAyOf6/view?usp=drive_link) |
 | 18  | 12-09-2023  | Lecture 18 - Cont VLIW and SIMD                         | [12.09.2023](https://drive.google.com/file/d/1An93XezjRismZh5K1JeFvcFG5tJBFoWu/view?usp=drive_link) |
 | 19  | 13-09-2023  | Lecture 19 - Revision-2 Mid-Sem                        |  |
+| 20  | 25-09-2023  | Lecture 20 - SIMD                        | SIMD-Multiplication and PACK/UNPACK instructions |
+
+
+https://drive.google.com/file/d/1OD-pCnDhFNCiT5jcJ2lEnSqTUeRUYY05/view?usp=drive_link
 
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you.
