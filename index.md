@@ -28,9 +28,9 @@ Assignment 1: [Familiarizing with Gem5](https://www.gem5.org/getting_started/) -
 | 19  | 13-09-2023  | Lecture 19 - Revision-2 Mid-Sem                        |  |
 | 20  | 25-09-2023  | Lecture 20 - SIMD                        | [25-09-2023](https://drive.google.com/file/d/1OD-pCnDhFNCiT5jcJ2lEnSqTUeRUYY05/view?usp=drive_link) |
 | 21  | 26-09-2023  | Lecture 21 - TLP-Block Level Multithreading                        | [26-09-2023](https://drive.google.com/file/d/1E9FP2wwZfTXu74lAKvphpqBCE4-ZkKRI/view?usp=drive_link) |
+| 22  | 27-09-2023  | Lecture 22 - Block Level Example and Fine Grain Multithreading                        | [27-09-2023](https://drive.google.com/file/d/1MsWPhUsE0kd-llkYkrR0afw74vqOJQHe/view?usp=drive_link) |
 
 
-https://drive.google.com/file/d/1OD-pCnDhFNCiT5jcJ2lEnSqTUeRUYY05/view?usp=drive_link
 
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you.
