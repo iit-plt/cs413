@@ -29,7 +29,7 @@ Assignment 1: [Familiarizing with Gem5](https://www.gem5.org/getting_started/) -
 | 20  | 25-09-2023  | Lecture 20 - SIMD                        | [25-09-2023](https://drive.google.com/file/d/1OD-pCnDhFNCiT5jcJ2lEnSqTUeRUYY05/view?usp=drive_link) |
 | 21  | 26-09-2023  | Lecture 21 - TLP-Block Level Multithreading                        | [26-09-2023](https://drive.google.com/file/d/1E9FP2wwZfTXu74lAKvphpqBCE4-ZkKRI/view?usp=drive_link) |
 | 22  | 27-09-2023  | Lecture 22 - Block Level Example and Fine Grain Multithreading                        | [27-09-2023](https://drive.google.com/file/d/1MsWPhUsE0kd-llkYkrR0afw74vqOJQHe/view?usp=drive_link) |
-
+| 23  | 5-10-2023  | Lecture 23 - Fine Grain Example and Simultaneous Multithreading                        | [05-10-2023](https://drive.google.com/file/d/1ZRb0DpUL4sszoRap4h9wnWWHd5xbSB5g/view?usp=drive_link) |
 
 
 
