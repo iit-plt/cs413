@@ -31,6 +31,8 @@ Assignment 1: [Familiarizing with Gem5](https://www.gem5.org/getting_started/) -
 | 22  | 27-09-2023  | Lecture 22 - Block Level Example and Fine Grain Multithreading                        | [27-09-2023](https://drive.google.com/file/d/1MsWPhUsE0kd-llkYkrR0afw74vqOJQHe/view?usp=drive_link) |
 | 23  | 5-10-2023  | Lecture 23 - Fine Grain Example and Simultaneous Multithreading                        | [05-10-2023](https://drive.google.com/file/d/1ZRb0DpUL4sszoRap4h9wnWWHd5xbSB5g/view?usp=drive_link) |
 | 24  | 9-10-2023  | Lecture 24 - Basics of Multiprocessors-UMA, NUMA, COMA                        | [09-10-2023](https://drive.google.com/file/d/1CrUtaJoAbmcx4Bb6TmzcNFfLviiw_rB8/view?usp=drive_link) |
+| 25  | 10-10-2023  | Lecture 25 - Crossbar and Multistage                        | [10-10-2023](https://drive.google.com/file/d/1_j44HYiqYjDB-TQofvjqelUTteb_7XEn/view?usp=drive_link) |
+| 26  | 11-10-2023  | Lecture 26 - Cache Coherence                        | [11-10-2023]() |
 
 
 
