@@ -32,8 +32,9 @@ Assignment 1: [Familiarizing with Gem5](https://www.gem5.org/getting_started/) -
 | 23  | 5-10-2023  | Lecture 23 - Fine Grain Example and Simultaneous Multithreading                        | [05-10-2023](https://drive.google.com/file/d/1ZRb0DpUL4sszoRap4h9wnWWHd5xbSB5g/view?usp=drive_link) |
 | 24  | 9-10-2023  | Lecture 24 - Basics of Multiprocessors-UMA, NUMA, COMA                        | [09-10-2023](https://drive.google.com/file/d/1CrUtaJoAbmcx4Bb6TmzcNFfLviiw_rB8/view?usp=drive_link) |
 | 25  | 10-10-2023  | Lecture 25 - Crossbar and Multistage                        | [10-10-2023](https://drive.google.com/file/d/1_j44HYiqYjDB-TQofvjqelUTteb_7XEn/view?usp=drive_link) |
-| 26  | 11-10-2023  | Lecture 26 - Cache Coherence                        | [11-10-2023]() |
-
+| 26  | 11-10-2023  | Lecture 26 - Cache Coherence                        | [11-10-2023](https://drive.google.com/file/d/1WsX6gr1dV5ttxBIOiZKfs7sc_6Rki6Im/view?usp=drive_link) |
+| 27  | 16-10-2023  | Lecture 27 - MSI and MESI                        | [16-10-2023](https://drive.google.com/file/d/1x9Vr_7m3pvf6h4SL0u1_lfBTeE7j30-I/view?usp=drive_link) |
+| 28  | 17-10-2023  | Lecture 28 - MOESI and MESIF                        | [17-10-2023](https://drive.google.com/file/d/1QTC2cmaIhQDeZI6U0vJy7U_OHp-4w2Tv/view?usp=drive_link) |
 
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you.
