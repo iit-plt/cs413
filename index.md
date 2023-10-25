@@ -35,6 +35,7 @@ Assignment 1: [Familiarizing with Gem5](https://www.gem5.org/getting_started/) -
 | 26  | 11-10-2023  | Lecture 26 - Cache Coherence                        | [11-10-2023](https://drive.google.com/file/d/1WsX6gr1dV5ttxBIOiZKfs7sc_6Rki6Im/view?usp=drive_link) |
 | 27  | 16-10-2023  | Lecture 27 - MSI and MESI                        | [16-10-2023](https://drive.google.com/file/d/1x9Vr_7m3pvf6h4SL0u1_lfBTeE7j30-I/view?usp=drive_link) |
 | 28  | 17-10-2023  | Lecture 28 - MOESI and MESIF                        | [17-10-2023](https://drive.google.com/file/d/1QTC2cmaIhQDeZI6U0vJy7U_OHp-4w2Tv/view?usp=drive_link) |
+| 29  | 18-10-2023  | Lecture 29 - Limitiation of SMP                        | [18-10-2023](https://drive.google.com/file/d/1XLg65eMh6E-FLB5B39_--Zil9M6r0Y8V/view?usp=drive_link) |
 
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you.
