@@ -36,6 +36,8 @@ Assignment 1: [Familiarizing with Gem5](https://www.gem5.org/getting_started/) -
 | 27  | 16-10-2023  | Lecture 27 - MSI and MESI                        | [16-10-2023](https://drive.google.com/file/d/1x9Vr_7m3pvf6h4SL0u1_lfBTeE7j30-I/view?usp=drive_link) |
 | 28  | 17-10-2023  | Lecture 28 - MOESI and MESIF                        | [17-10-2023](https://drive.google.com/file/d/1QTC2cmaIhQDeZI6U0vJy7U_OHp-4w2Tv/view?usp=drive_link) |
 | 29  | 18-10-2023  | Lecture 29 - Limitiation of SMP                        | [18-10-2023](https://drive.google.com/file/d/1XLg65eMh6E-FLB5B39_--Zil9M6r0Y8V/view?usp=drive_link) |
+| 30  | 25-10-2023  | Lecture 30 - Directory Protocol                        | [25-10-2023](https://drive.google.com/file/d/1MZ4EgGCNz0mFLVp0egms7TFJsKRjztUH/view?usp=drive_link) |
+
 
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you.
