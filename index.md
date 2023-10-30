@@ -11,7 +11,7 @@ Assignment 1: [Familiarizing with Gem5](https://www.gem5.org/getting_started/) -
 | 2   | 2-08-2023   |Lecture 2- Cache Mapping Review        | [02.08.2023](https://drive.google.com/file/d/16exw1TwFwB39oD_Gzlfp7oIU11mMWHoN/view?usp=drive_link)|
 | 3   | 7-08-2023   |Lecture 3- Parallel Architecture Basics        | [07.08.2023](https://drive.google.com/file/d/1m0myXHyzLHabbajf2A1ptclzDWho41QS/view?usp=drive_link)|
 | 4   | 8-08-2023   |Lecture 4- Review MIPS Datapath-1        | [08.08.2023](https://drive.google.com/file/d/128DBeEFQDfTGMlNcbYvUWHHbjPD1lP8m/view?usp=drive_link)|
-| 5   | 9-08-2023   |Lecture 5- Review MIPS Datapath-2 & Pipelining        | [09.08.2023](https://drive.google.com/file/d/1nfLU0VJCI-uIMpGT8Iq_oibcI1qbfVKY/view?usp=drive_link)|
+| 5   | 9-08-2023   |Lecture 5- Review MIPS Datapath-2 & Pipelining        | [09.08.2023](https://drive.google.com/file/d/1nfLU0VJCI-uIMpGT8Iq_oibcI1qbfVKY/view?usp=drive_link)| 
 | 6   | 14-08-2023   |Lecture 6- Hazards in Pipelining        | [14.08.2023](https://drive.google.com/file/d/1T671Ux_u_DDA4bcOCXnfzov_hcdZSO-j/view?usp=drive_link)|
 | 7   | 16-08-2023   |Lecture 7- Control Hazards and Simple Branch Predicting Techniques        | [16.08.2023](https://drive.google.com/file/d/1qIA4zEVvweCSdi8c2BnjqloOLbRfEYgL/view?usp=drive_link)|
 | 8   | 21-08-2023   |Lecture 8- Data Hazards Numericals        | [21.08.2023](https://drive.google.com/file/d/1zWwY0DQ5UjY8_ru3aydaPG-Tt4PC2qLJ/view?usp=drive_link)|
@@ -37,7 +37,8 @@ Assignment 1: [Familiarizing with Gem5](https://www.gem5.org/getting_started/) -
 | 28  | 17-10-2023  | Lecture 28 - MOESI and MESIF                        | [17-10-2023](https://drive.google.com/file/d/1QTC2cmaIhQDeZI6U0vJy7U_OHp-4w2Tv/view?usp=drive_link) |
 | 29  | 18-10-2023  | Lecture 29 - Limitiation of SMP                        | [18-10-2023](https://drive.google.com/file/d/1XLg65eMh6E-FLB5B39_--Zil9M6r0Y8V/view?usp=drive_link) |
 | 30  | 25-10-2023  | Lecture 30 - Directory Protocol                        | [25-10-2023](https://drive.google.com/file/d/1MZ4EgGCNz0mFLVp0egms7TFJsKRjztUH/view?usp=drive_link) |
-
+| 31  | 26-10-2023  | Lecture 31 - Discussion regarding Mid Sem Performance          |  |
+| 32  | 30-10-2023  | Lecture 32 - Synchronization Problem                        | [30-10-2023]() |
 
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you.
