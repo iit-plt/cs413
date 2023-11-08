@@ -38,7 +38,13 @@ Assignment 1: [Familiarizing with Gem5](https://www.gem5.org/getting_started/) -
 | 29  | 18-10-2023  | Lecture 29 - Limitiation of SMP                        | [18-10-2023](https://drive.google.com/file/d/1XLg65eMh6E-FLB5B39_--Zil9M6r0Y8V/view?usp=drive_link) |
 | 30  | 25-10-2023  | Lecture 30 - Directory Protocol                        | [25-10-2023](https://drive.google.com/file/d/1MZ4EgGCNz0mFLVp0egms7TFJsKRjztUH/view?usp=drive_link) |
 | 31  | 26-10-2023  | Lecture 31 - Discussion regarding Mid Sem Performance          |  |
-| 32  | 30-10-2023  | Lecture 32 - Synchronization Problem                        | [30-10-2023]() |
+| 32  | 30-10-2023  | Lecture 32 - Synchronization Problem                        | [30-10-2023](https://drive.google.com/file/d/1OpaAKAGXgzv34KUFMKPTgZxGw51Zvpob/view?usp=drive_link) |
+| 33  | 31-10-2023  | Lecture 33 - RMW Instruction                        | [31-10-2023](https://drive.google.com/file/d/1mC7HAsCbo7kNzY3kZZP9svSUc2uN-g4M/view?usp=drive_link) |
+| 34  | 1-11-2023   | Presentation only by Students                        | [1-11-2023]() |
+| 36  | 6-11-2023   | Lecture 35- Sequential Consititency (Slides 45-53)                            | [6-11-2023](https://www.cse.iitd.ac.in/~srsarangi/files/advbook/Chapter_9-multicore-systems.pptx) |
+| 37  | 7-11-2023   | PLSC   (Slides 54-60)                            | [6-11-2023](https://www.cse.iitd.ac.in/~srsarangi/files/advbook/Chapter_9-multicore-systems.pptx) |
+| 38  | 7-11-2023   | Execution Witness   (Slides 61-74)                            | [6-11-2023](https://www.cse.iitd.ac.in/~srsarangi/files/advbook/Chapter_9-multicore-systems.pptx) |
 
+Video Links for Lecture 36-38 by Prof. Smruti R. Sarangi (IITD) - [Video-1-All] (https://www.youtube.com/watch?v=-XoyoA4xUhE), [Video-2- 0:00 to 43:27](https://www.youtube.com/watch?v=qH1FX9rnpHM)
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you.
