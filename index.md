@@ -45,7 +45,7 @@ Assignment 1: [Familiarizing with Gem5](https://www.gem5.org/getting_started/) -
 | 36  | 7-11-2023   | Lecture 36- PLSC   (Slides 54-60)                            | [7-11-2023](https://www.cse.iitd.ac.in/~srsarangi/files/advbook/Chapter_9-multicore-systems.pptx) |
 | 37  | 8-11-2023   | Lecture 37- Execution Witness   (Slides 61-74)                            | [8-11-2023](https://www.cse.iitd.ac.in/~srsarangi/files/advbook/Chapter_9-multicore-systems.pptx) |
 
-### Video Links for Lecture 35-37 by Prof. Smruti R. Sarangi (IITD)
+### Video Links for Lectures 35-37 by Prof. Smruti R. Sarangi (IITD)
 1. [Video-1](https://www.youtube.com/watch?v=-XoyoA4xUhE) - All
 2. [Video-2](https://www.youtube.com/watch?v=qH1FX9rnpHM) - From 0:00 to 43:27
 
