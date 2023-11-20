@@ -1,10 +1,5 @@
 ### The best preparation for tomorrow is doing your best today- H. Jackson Brown, Jr.
 
-
-Check your attendance here: [Link](https://docs.google.com/spreadsheets/d/15uA9LeIXxnPE4ydki7zfR0EAugeWi1QlrM6wXJ0b5Pc/edit?usp=drive_link)
-
-Assignment 1: [Familiarizing with Gem5](https://www.gem5.org/getting_started/) - Due 21.08.2023
-
 | Sl. No. | Date of Lecture        | Topics  | Slides   |
 |:---:|:--:|:--|:--------------------------:|
 | 1   | 1-08-2023   |Lecture 1- Introduction                | [01.08.2023](https://drive.google.com/file/d/1i5SR5Sh-XZ44ELt6r80KTeZ6R_eyh0h4/view?usp=drive_link)|
